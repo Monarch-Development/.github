@@ -5,4 +5,4 @@
 
 _Built by community, for community_
 
-Monarch Development is a community that has the goal of transmitting an ideal to people: make resources well and improve them over time, no matter if free or paid. Unfortunately FiveM is saturated with paid resources that are very similar to each other and often full of bugs due to the disinterest of those who create them. We bring together many developers driven by a common goal, create free resources for the community without depending on FiveM or on earnings.
+FiveM is a world where people do something for free only to advertise themselves and make more sales, those who do something for a fee as if it were not enough do it badly or don't provide support, we at Monarch Development are not like this, we only make free scripts for the whole community and we will clean up this community together or alone.
